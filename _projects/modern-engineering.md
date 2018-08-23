@@ -12,7 +12,7 @@ tags:
 slug: ''
 menu:
   footer:
-    weight: 1
+    weight: 2
     title: Zonkers!
 
 ---
